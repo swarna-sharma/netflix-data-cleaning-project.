@@ -1,6 +1,8 @@
 # Netflix Movies & TV Shows — Data Cleaning
 
-This project contains a cleaned version of the Netflix dataset from Kaggle.  
+This project contains a cleaned version of the Netflix dataset from Kaggle.
+link for the data: https://www.kaggle.com/datasets/shivamb/netflix-shows
+
 The cleaning process included:
 - Handling missing values
 - Removing duplicates
